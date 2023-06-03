@@ -1,0 +1,28 @@
+{
+    "blogs" : [
+        {
+            "title" : "My new website",
+            "body" : "Lorem Ipsum",
+            "author" : "Mario",
+            "id" : 1
+        },
+        {
+            "title" : "Welcome Party!",
+            "body" : "Lorem Ipsum",
+            "author" : "Luigi",
+            "id" : 2
+        },
+        {
+            "title" : "Web Dev Top Tips",
+            "body" : "Lorem Ipsum",
+            "author" : "Toad",
+            "id" : 3
+        },
+        {
+            "title" : "React 101",
+            "body" : "Lorem Ipsum",
+            "author" : "Peach",
+            "id" : 4
+        }
+    ]
+}
